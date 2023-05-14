@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="tradingPlatform:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/tradingPlatform_war</output-path>
+    <root id="archive" name="tradingPlatform_war.war">
+      <element id="artifact" artifact-name="tradingPlatform:war exploded" />
+      <element id="module-output" name="tradingPlatform" />
+    </root>
+  </artifact>
+</component>
